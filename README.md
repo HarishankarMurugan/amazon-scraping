@@ -47,7 +47,7 @@ At last, we used to combine the entire code which we have tried into a single sn
 #### The browser in which process going on!
 ![Screenshot 2023-04-27 145611](https://user-images.githubusercontent.com/124061758/234833341-8394ff90-656f-4832-8877-c3d00775bd8b.png)
 
-#### The Save file in the respective folder.
+#### The Saved csv file in the respective folder.
 ![Screenshot 2023-04-27 145855](https://user-images.githubusercontent.com/124061758/234833626-e456878b-80d4-45e9-afd9-3fc2decaaab4.png)
 
 #### Final ouput in CSV File.
